@@ -88,9 +88,9 @@ Here are some ideas to get you started:
 </div>
 
 
+###
 
-<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ithiagosilva/ithiagosilva/output/pacman-contribution-graph.svg">
-
+<img src="https://raw.githubusercontent.com/ithiagosilva/ithiagosilva/output/snake.svg" alt="Snake animation" />
 
 ###
 

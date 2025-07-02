@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h2>Programming Languages & Technologies</h2>
+<h2 align="center">Programming Languages & Technologies</h2>
 
 ###
 
@@ -49,9 +49,10 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode logo"  />
 </div>
 
+<br>
 ###
 
-<h2>Design & Productivity Tools</h2>
+<h2 align="center">Design & Productivity Tools</h2>
 
 ###
 

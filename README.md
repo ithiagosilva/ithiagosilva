@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 ###
 
+<br>
+
 <h2 align="center">Programming Languages & Technologies</h2>
 
 ###
@@ -50,7 +52,6 @@ Here are some ideas to get you started:
 </div>
 
 <br>
-###
 
 <h2 align="center">Design & Productivity Tools</h2>
 

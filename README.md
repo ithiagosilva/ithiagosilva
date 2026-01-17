@@ -101,7 +101,3 @@ Here are some ideas to get you started:
 
 ###
 
-  ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ithiagosilva&theme=dracula)
-
-###
-

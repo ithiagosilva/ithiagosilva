@@ -85,7 +85,7 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/ithiagosilva" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <a href="https://thiagosilvadev.fun" target="_blank">
+  <a href="https://ithiagosilva.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" height="25" alt="portifolio logo"  />
   </a>
 </div>
